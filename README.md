@@ -7,3 +7,5 @@ Pact verification condition: demo change ready for settlement.
 Pact verification condition: second Arc Testnet rehearsal.
 
 Pact verification condition: corrected runtime certification ready for settlement.
+
+Pact verification condition: first Arc Mainnet settlement.
