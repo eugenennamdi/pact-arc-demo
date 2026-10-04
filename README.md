@@ -9,3 +9,5 @@ Pact verification condition: second Arc Testnet rehearsal.
 Pact verification condition: corrected runtime certification ready for settlement.
 
 Pact verification condition: first Arc Mainnet settlement.
+
+Pact verification condition: automatic Testnet settlement rehearsal.
