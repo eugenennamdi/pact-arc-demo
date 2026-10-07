@@ -12,3 +12,5 @@ Pact verification condition: first Arc Mainnet settlement.
 
 Pact verification condition: Phase 6D wallet lifecycle ready for submission.
 Pact verification condition: automatic Testnet settlement rehearsal.
+
+Pact verification condition: second Arc Mainnet settlement rehearsal.
